@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+tensorflow
+numpy
+requests
+python-dotenv
+supabase
+Pillow
+apscheduler
+geojson
