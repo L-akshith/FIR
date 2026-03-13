@@ -1,0 +1,103 @@
+{
+  "app": {
+    "name": "ArecaMitra",
+    "tagline": "Protect Your Areca. Protect Your Future."
+  },
+  "nav": {
+    "home": "Home",
+    "scan": "Scan",
+    "map": "Map",
+    "settings": "Settings"
+  },
+  "login": {
+    "title": "Welcome to ArecaMitra",
+    "subtitle": "AI-powered disease detection for arecanut farmers",
+    "phone_label": "Phone Number",
+    "phone_placeholder": "Enter your 10-digit number",
+    "send_otp": "Send OTP",
+    "verify_title": "Verify OTP",
+    "verify_subtitle": "Enter the 6-digit code sent to your phone",
+    "verify_btn": "Verify & Continue",
+    "resend": "Resend OTP",
+    "demo_hint": "Demo OTP: 123456"
+  },
+  "onboarding": {
+    "title": "Set Up Your Profile",
+    "subtitle": "Help us personalize your experience",
+    "village_label": "Village",
+    "village_placeholder": "Enter your village name",
+    "taluka_label": "Taluka",
+    "taluka_placeholder": "Select taluka",
+    "district_label": "District",
+    "district_placeholder": "Select district",
+    "continue": "Get Started"
+  },
+  "home": {
+    "greeting": "Hello, Farmer",
+    "risk_title": "Your Area Status",
+    "risk_safe": "No outbreaks detected nearby",
+    "risk_warning": "Disease activity detected near you",
+    "risk_severe": "You are inside an outbreak zone!",
+    "scan_btn": "Scan Leaf / Nut",
+    "scan_desc": "Take a photo to detect disease instantly",
+    "recent_title": "Recent Scans",
+    "no_scans": "No scans yet. Tap the scan button to begin!",
+    "weather_title": "Weather Conditions"
+  },
+  "scan": {
+    "title": "Capture Image",
+    "instruction": "Point camera at the arecanut leaf or nut",
+    "capture": "Capture",
+    "retake": "Retake",
+    "upload": "Upload from Gallery",
+    "analyze": "Analyze Disease",
+    "quality_blur": "Image is too blurry",
+    "quality_dark": "Image is too dark",
+    "quality_green": "Ensure leaf fills the frame"
+  },
+  "result": {
+    "title": "Analysis Result",
+    "disease": "Disease Detected",
+    "confidence": "Confidence",
+    "severity": "Severity",
+    "healthy_title": "Healthy!",
+    "healthy_msg": "No disease detected. Your crop looks healthy!",
+    "treatment_title": "Recommended Treatment",
+    "weather_title": "Weather Risk",
+    "scan_again": "Scan Another"
+  },
+  "map": {
+    "title": "Community Map",
+    "legend_title": "Legend",
+    "koleroga": "Koleroga",
+    "yellow_leaf": "Yellow Leaf Disease",
+    "severe_zone": "Severe Zone",
+    "warning_zone": "Warning Zone",
+    "reports_label": "reports"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "english": "English",
+    "kannada": "ಕನ್ನಡ",
+    "notifications": "Push Notifications",
+    "location": "Location Sharing",
+    "about": "About ArecaMitra",
+    "version": "Version 1.0.0",
+    "logout": "Logout"
+  },
+  "diseases": {
+    "koleroga": "Koleroga (Mahali)",
+    "yellow_leaf": "Yellow Leaf Disease",
+    "healthy": "Healthy"
+  },
+  "severity": {
+    "severe": "Severe",
+    "moderate": "Moderate",
+    "mild": "Mild"
+  },
+  "treatments": {
+    "koleroga": "1. Apply Bordeaux mixture spray immediately\n2. Ensure proper drainage around palms\n3. Remove and destroy infected nuts\n4. Consult local agricultural officer",
+    "yellow_leaf": "1. Apply Imidacloprid to control leafhoppers\n2. Remove severely affected palms\n3. Maintain palm nutrition\n4. Monitor for leafhopper activity"
+  }
+}
