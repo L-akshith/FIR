@@ -1,0 +1,232 @@
+district,taluk,village,latitude,longitude,disease_incidence,disease_intensity
+Dakshina Kannada,Puttur,Barike,12.7939,75.4157,0.0,0.0
+Dakshina Kannada,Puttur,Navoor,12.7064,75.387,0.0,0.0
+Dakshina Kannada,Puttur,Idyadi,12.7593,75.3075,10.0,6.0
+Dakshina Kannada,Puttur,Panemajalu,12.7497,75.3025,10.0,14.0
+Dakshina Kannada,Puttur,Golitottu,12.8478,75.3591,10.0,0.0
+Dakshina Kannada,Puttur,Kumla,12.8544,75.3569,50.0,52.5
+Dakshina Kannada,Bantwal,Mithur,12.7831,75.14,0.0,0.0
+Dakshina Kannada,Bantwal,Surya,12.7889,75.1304,0.0,0.0
+Dakshina Kannada,Bantwal,Netlamudnur,12.7927,75.131,0.0,0.0
+Dakshina Kannada,Bantwal,Karinka,12.7919,75.1172,10.0,6.0
+Dakshina Kannada,Bantwal,Nadumane,12.7939,75.1131,0.0,0.0
+Dakshina Kannada,Bantwal,Irandoor,12.7897,75.1102,30.0,14.0
+Dakshina Kannada,Bantwal,Vittalpadanur,12.7791,75.1048,0.0,0.0
+Dakshina Kannada,Bantwal,Naithottu,12.796,75.107,10.0,6.0
+Dakshina Kannada,Bantwal,Ananthady,12.8022,75.1152,40.0,27.5
+Dakshina Kannada,Bantwal,Sankesha,12.8035,75.1095,0.0,0.0
+Dakshina Kannada,Bantwal,Hancharike,13.4575,75.2484,10.0,6.0
+Dakshina Kannada,Bantwal,Badakodi,12.7191,75.1272,0.0,0.0
+Dakshina Kannada,Bantwal,Kodimbala,12.7215,75.4752,0.0,0.0
+Dakshina Kannada,Bantwal,Urimajalu,12.7842,75.1398,50.0,30.0
+Dakshina Kannada,Bantwal,Kesarukodige,13.4676,75.2533,0.0,0.0
+Dakshina Kannada,Bantwal,Punja,12.6786,75.4724,0.0,0.0
+Dakshina Kannada,Bantwal,Addabailu,12.6785,75.4919,0.0,0.0
+Dakshina Kannada,Bantwal,Kukkipadi,12.9754,75.0691,0.0,0.0
+Dakshina Kannada,Bantwal,Kedila,12.8064,75.1619,2.0,12.0
+Dakshina Kannada,Bantwal,Peraje,12.8208,75.1481,2.0,10.0
+Dakshina Kannada,Bantwal,Rayee,12.9464,75.0554,0.0,0.0
+Dakshina Kannada,Bantwal,Sarapady,12.879,75.1276,0.0,0.0
+Dakshina Kannada,Bantwal,Budoil,12.9483,75.0721,2.0,10.0
+Dakshina Kannada,Bantwal,Chennaithodi,12.9718,75.0995,0.0,0.0
+Dakshina Kannada,Bantwal,Mudanadugodu,12.909,75.0705,0.0,0.0
+Shivamogga,Sagara,Sagara_village_1,14.164576222370483,75.1144608169164,30.0,13.0
+Shivamogga,Sagara,Sagara_village_2,14.126724446911481,74.9925560839394,20.0,12.0
+Shivamogga,Sagara,Sagara_village_3,14.126315646271939,74.9891153731955,11.0,8.0
+Shivamogga,Sagara,Sagara_village_4,14.160077757959158,75.0913963184443,18.0,14.0
+Shivamogga,Sagara,Sagara_village_5,14.187002588556977,75.02213437965369,14.0,5.0
+Shivamogga,Sagara,Sagara_village_6,14.112471268496922,75.06954775840084,17.0,16.0
+Shivamogga,Sagara,Sagara_village_7,14.104250322552835,75.06511257794106,13.0,12.0
+Shivamogga,Sagara,Sagara_village_8,14.165495534366743,74.96674281123883,29.0,29.0
+Shivamogga,Sagara,Sagara_village_9,14.10829722604887,74.99365801009974,19.0,8.0
+Shivamogga,Sagara,Sagara_village_10,14.13477003197884,74.98429874303382,19.0,6.0
+Shivamogga,Sagara,Sagara_village_11,14.141344047816691,75.0545546013483,31.0,7.0
+Shivamogga,Sagara,Sagara_village_12,14.205505043517437,75.01885624949277,11.0,7.0
+Shivamogga,Sagara,Sagara_village_13,14.141730092821343,75.02634016953284,15.0,5.0
+Shivamogga,Sagara,Sagara_village_14,14.16239850080111,75.01972823385454,23.0,23.0
+Shivamogga,Sagara,Sagara_village_15,14.190509404126013,75.02242748860695,25.0,9.0
+Shivamogga,Sagara,Sagara_village_16,14.23676617418124,75.05667968279613,23.0,14.0
+Shivamogga,Sagara,Sagara_village_17,14.179154757213908,75.07184184854853,33.0,6.0
+Shivamogga,Sagara,Sagara_village_18,14.14586365514998,75.02301890489859,27.0,16.0
+Shivamogga,Sagara,Sagara_village_19,14.179091056056665,74.98349294131364,19.0,18.0
+Shivamogga,Sagara,Sagara_village_20,14.200445737744399,74.95477737317435,14.0,7.0
+Shivamogga,Thirthahalli,Thirthahalli_village_1,13.678416544187245,75.31111538154786,33.0,8.0
+Shivamogga,Thirthahalli,Thirthahalli_village_2,13.73896676960178,75.28274763230456,14.0,13.0
+Shivamogga,Thirthahalli,Thirthahalli_village_3,13.714482000830754,75.24587646849226,32.0,26.0
+Shivamogga,Thirthahalli,Thirthahalli_village_4,13.735300780028647,75.23901109349579,29.0,12.0
+Shivamogga,Thirthahalli,Thirthahalli_village_5,13.716516575931493,75.19974151337824,15.0,7.0
+Shivamogga,Thirthahalli,Thirthahalli_village_6,13.692602724986017,75.1884928671638,35.0,24.0
+Shivamogga,Thirthahalli,Thirthahalli_village_7,13.75903468524855,75.26041632877563,35.0,26.0
+Shivamogga,Thirthahalli,Thirthahalli_village_8,13.653759868286437,75.24328160860561,30.0,29.0
+Shivamogga,Thirthahalli,Thirthahalli_village_9,13.709853211980166,75.24129611156572,20.0,14.0
+Shivamogga,Thirthahalli,Thirthahalli_village_10,13.713792537911349,75.29959199101653,11.0,9.0
+Shivamogga,Thirthahalli,Thirthahalli_village_11,13.69411990244549,75.19662288431603,20.0,11.0
+Shivamogga,Thirthahalli,Thirthahalli_village_12,13.625430240431704,75.23395682478053,32.0,8.0
+Shivamogga,Thirthahalli,Thirthahalli_village_13,13.656816486311435,75.24358838029524,15.0,8.0
+Shivamogga,Thirthahalli,Thirthahalli_village_14,13.705235061180197,75.26193681071562,26.0,24.0
+Shivamogga,Thirthahalli,Thirthahalli_village_15,13.762484667299539,75.2886016471276,10.0,7.0
+Shivamogga,Thirthahalli,Thirthahalli_village_16,13.692016438211228,75.23280541577456,11.0,5.0
+Shivamogga,Thirthahalli,Thirthahalli_village_17,13.676867015324671,75.24156334072265,35.0,19.0
+Shivamogga,Thirthahalli,Thirthahalli_village_18,13.636386250635605,75.25104503783713,25.0,8.0
+Shivamogga,Thirthahalli,Thirthahalli_village_19,13.762287419920758,75.21319088651359,28.0,18.0
+Shivamogga,Thirthahalli,Thirthahalli_village_20,13.723399066609206,75.27268467092757,17.0,13.0
+Udupi,Kundapura,Kundapura_village_1,13.65778769655106,74.69140654658676,27.0,20.0
+Udupi,Kundapura,Kundapura_village_2,13.638231986272563,74.61566446868312,10.0,6.0
+Udupi,Kundapura,Kundapura_village_3,13.554753544802713,74.74075767053064,10.0,10.0
+Udupi,Kundapura,Kundapura_village_4,13.580580009627012,74.69697079210135,20.0,13.0
+Udupi,Kundapura,Kundapura_village_5,13.702187099061023,74.64371012638948,14.0,9.0
+Udupi,Kundapura,Kundapura_village_6,13.641968922311126,74.66809308614278,34.0,10.0
+Udupi,Kundapura,Kundapura_village_7,13.652141186877616,74.73141159575884,13.0,7.0
+Udupi,Kundapura,Kundapura_village_8,13.573780783570127,74.68329358597006,21.0,16.0
+Udupi,Kundapura,Kundapura_village_9,13.573739726129745,74.67254356542715,16.0,12.0
+Udupi,Kundapura,Kundapura_village_10,13.631350475385005,74.69930558159511,33.0,22.0
+Udupi,Kundapura,Kundapura_village_11,13.640861578000752,74.77070552328267,12.0,12.0
+Udupi,Kundapura,Kundapura_village_12,13.540699277387482,74.71086561611853,20.0,9.0
+Udupi,Kundapura,Kundapura_village_13,13.626105375821345,74.63879306610254,14.0,10.0
+Udupi,Kundapura,Kundapura_village_14,13.664706251420082,74.66585337958634,29.0,27.0
+Udupi,Kundapura,Kundapura_village_15,13.670491997729394,74.69618113817145,31.0,5.0
+Udupi,Kundapura,Kundapura_village_16,13.582202137523788,74.70774746302962,35.0,25.0
+Udupi,Kundapura,Kundapura_village_17,13.665196165473077,74.7130057264484,27.0,12.0
+Udupi,Kundapura,Kundapura_village_18,13.567136032951904,74.6760423463778,19.0,18.0
+Udupi,Kundapura,Kundapura_village_19,13.663925691314159,74.64919090237788,28.0,13.0
+Udupi,Kundapura,Kundapura_village_20,13.612599928620595,74.70885368207095,30.0,29.0
+Udupi,Karkala,Karkala_village_1,13.222602586254197,74.97287176541953,22.0,18.0
+Udupi,Karkala,Karkala_village_2,13.164541894121164,75.02086410376575,32.0,8.0
+Udupi,Karkala,Karkala_village_3,13.246847277053341,74.99721960485856,30.0,18.0
+Udupi,Karkala,Karkala_village_4,13.25884674176859,74.97381466056208,31.0,23.0
+Udupi,Karkala,Karkala_village_5,13.236279611965534,75.03197198470451,25.0,16.0
+Udupi,Karkala,Karkala_village_6,13.260675177169508,75.05681463252587,15.0,8.0
+Udupi,Karkala,Karkala_village_7,13.207562420149138,74.96757734396682,18.0,15.0
+Udupi,Karkala,Karkala_village_8,13.19914534178671,75.0241968160767,34.0,15.0
+Udupi,Karkala,Karkala_village_9,13.209256529819758,75.04579982179521,27.0,19.0
+Udupi,Karkala,Karkala_village_10,13.165738275475363,75.05844278820351,34.0,13.0
+Udupi,Karkala,Karkala_village_11,13.287078293752153,74.9795596267009,34.0,17.0
+Udupi,Karkala,Karkala_village_12,13.190340766984217,74.98486007858958,20.0,8.0
+Udupi,Karkala,Karkala_village_13,13.14207934859755,74.96438251984581,23.0,16.0
+Udupi,Karkala,Karkala_village_14,13.219668424455296,74.95876515259071,24.0,13.0
+Udupi,Karkala,Karkala_village_15,13.246480198787912,75.06028392263536,19.0,8.0
+Udupi,Karkala,Karkala_village_16,13.23019607678669,74.99834849839954,25.0,24.0
+Udupi,Karkala,Karkala_village_17,13.18520766789276,74.95756020873019,31.0,31.0
+Udupi,Karkala,Karkala_village_18,13.286344818458755,74.99993519166014,20.0,6.0
+Udupi,Karkala,Karkala_village_19,13.127323799555997,74.99915918453549,29.0,7.0
+Udupi,Karkala,Karkala_village_20,13.230768321211395,74.9720133575106,19.0,15.0
+Uttara Kannada,Sirsi,Sirsi_village_1,14.70006295353476,74.80949593605655,35.0,11.0
+Uttara Kannada,Sirsi,Sirsi_village_2,14.565763808123592,74.84419292334266,11.0,5.0
+Uttara Kannada,Sirsi,Sirsi_village_3,14.638666058949221,74.86655259420203,27.0,12.0
+Uttara Kannada,Sirsi,Sirsi_village_4,14.62664428427354,74.82611828941846,16.0,5.0
+Uttara Kannada,Sirsi,Sirsi_village_5,14.674571372488845,74.8782973178709,33.0,23.0
+Uttara Kannada,Sirsi,Sirsi_village_6,14.605513744446919,74.82901925552373,10.0,8.0
+Uttara Kannada,Sirsi,Sirsi_village_7,14.631742712591945,74.87692706124055,26.0,19.0
+Uttara Kannada,Sirsi,Sirsi_village_8,14.648135714798636,74.82061983967624,11.0,9.0
+Uttara Kannada,Sirsi,Sirsi_village_9,14.584178491623746,74.78812835500281,13.0,8.0
+Uttara Kannada,Sirsi,Sirsi_village_10,14.583258343252817,74.75407364999735,21.0,16.0
+Uttara Kannada,Sirsi,Sirsi_village_11,14.552653224357783,74.84265805662865,15.0,10.0
+Uttara Kannada,Sirsi,Sirsi_village_12,14.646540858944395,74.86634827850136,20.0,13.0
+Uttara Kannada,Sirsi,Sirsi_village_13,14.577182490488832,74.89117621703011,35.0,18.0
+Uttara Kannada,Sirsi,Sirsi_village_14,14.670850482296744,74.85716307982888,26.0,9.0
+Uttara Kannada,Sirsi,Sirsi_village_15,14.610396250227193,74.7933842265091,16.0,16.0
+Uttara Kannada,Sirsi,Sirsi_village_16,14.691877968389726,74.87342816581646,13.0,5.0
+Uttara Kannada,Sirsi,Sirsi_village_17,14.65428560253434,74.77498981106243,28.0,16.0
+Uttara Kannada,Sirsi,Sirsi_village_18,14.550447287539665,74.82104635511996,26.0,22.0
+Uttara Kannada,Sirsi,Sirsi_village_19,14.641470583766932,74.88670587465485,34.0,11.0
+Uttara Kannada,Sirsi,Sirsi_village_20,14.619044537272837,74.81914019285058,29.0,25.0
+Uttara Kannada,Siddapur,Siddapur_village_1,14.361547696153643,74.93072650419676,16.0,14.0
+Uttara Kannada,Siddapur,Siddapur_village_2,14.327080464780078,74.90062181332823,26.0,25.0
+Uttara Kannada,Siddapur,Siddapur_village_3,14.366351556217179,74.84052216693499,34.0,9.0
+Uttara Kannada,Siddapur,Siddapur_village_4,14.283974404987193,74.9476135224263,20.0,10.0
+Uttara Kannada,Siddapur,Siddapur_village_5,14.372307249489051,74.85682406483718,30.0,13.0
+Uttara Kannada,Siddapur,Siddapur_village_6,14.351199870070404,74.9870132341831,28.0,8.0
+Uttara Kannada,Siddapur,Siddapur_village_7,14.318199773286244,74.86843193993904,10.0,6.0
+Uttara Kannada,Siddapur,Siddapur_village_8,14.372379897021998,74.97516761043211,15.0,5.0
+Uttara Kannada,Siddapur,Siddapur_village_9,14.358712696643492,74.87222767375465,20.0,17.0
+Uttara Kannada,Siddapur,Siddapur_village_10,14.34935530925506,74.84882828415641,31.0,8.0
+Uttara Kannada,Siddapur,Siddapur_village_11,14.329359055479427,74.82421884067075,17.0,12.0
+Uttara Kannada,Siddapur,Siddapur_village_12,14.318495098535042,74.87560189604807,35.0,13.0
+Uttara Kannada,Siddapur,Siddapur_village_13,14.351224063694623,74.94048425946461,22.0,12.0
+Uttara Kannada,Siddapur,Siddapur_village_14,14.358150085407692,74.83456590278246,27.0,9.0
+Uttara Kannada,Siddapur,Siddapur_village_15,14.304351525347869,74.82132041100434,25.0,24.0
+Uttara Kannada,Siddapur,Siddapur_village_16,14.343734885273168,74.90884758999191,32.0,25.0
+Uttara Kannada,Siddapur,Siddapur_village_17,14.292814407046396,74.95637510686957,27.0,26.0
+Uttara Kannada,Siddapur,Siddapur_village_18,14.356771661224784,74.96014197002468,30.0,12.0
+Uttara Kannada,Siddapur,Siddapur_village_19,14.340972351789542,74.96306679255531,15.0,7.0
+Uttara Kannada,Siddapur,Siddapur_village_20,14.355701344794925,74.82068609802812,28.0,8.0
+Chikkamagaluru,Sringeri,Sringeri_village_1,13.345524028504984,75.27644888670659,18.0,14.0
+Chikkamagaluru,Sringeri,Sringeri_village_2,13.481194846990977,75.22762972408407,13.0,13.0
+Chikkamagaluru,Sringeri,Sringeri_village_3,13.352469447896627,75.29223919129464,29.0,15.0
+Chikkamagaluru,Sringeri,Sringeri_village_4,13.473359899385358,75.25768648993532,13.0,5.0
+Chikkamagaluru,Sringeri,Sringeri_village_5,13.36547857601178,75.18786807560781,27.0,18.0
+Chikkamagaluru,Sringeri,Sringeri_village_6,13.503412156089212,75.26002855479058,15.0,9.0
+Chikkamagaluru,Sringeri,Sringeri_village_7,13.393221622569536,75.26488949523035,28.0,13.0
+Chikkamagaluru,Sringeri,Sringeri_village_8,13.334956207099175,75.27336327804275,31.0,31.0
+Chikkamagaluru,Sringeri,Sringeri_village_9,13.4350177941765,75.21748388834882,20.0,7.0
+Chikkamagaluru,Sringeri,Sringeri_village_10,13.409554331845662,75.20259315289746,15.0,8.0
+Chikkamagaluru,Sringeri,Sringeri_village_11,13.488970940924291,75.29793524982172,21.0,14.0
+Chikkamagaluru,Sringeri,Sringeri_village_12,13.403322698456886,75.23229571683447,21.0,21.0
+Chikkamagaluru,Sringeri,Sringeri_village_13,13.409894731092566,75.27553138352971,16.0,11.0
+Chikkamagaluru,Sringeri,Sringeri_village_14,13.483303890364072,75.22495210771383,16.0,16.0
+Chikkamagaluru,Sringeri,Sringeri_village_15,13.435308941615519,75.2600820222187,11.0,8.0
+Chikkamagaluru,Sringeri,Sringeri_village_16,13.423962616909936,75.23150973003598,30.0,13.0
+Chikkamagaluru,Sringeri,Sringeri_village_17,13.39410375288886,75.33371527745446,15.0,14.0
+Chikkamagaluru,Sringeri,Sringeri_village_18,13.480199747579812,75.30378390413772,28.0,25.0
+Chikkamagaluru,Sringeri,Sringeri_village_19,13.43860850678538,75.25331466938943,21.0,9.0
+Chikkamagaluru,Sringeri,Sringeri_village_20,13.440885256145181,75.23960783333797,21.0,16.0
+Chikkamagaluru,Koppa,Koppa_village_1,13.573122017579848,75.11013956305557,18.0,8.0
+Chikkamagaluru,Koppa,Koppa_village_2,13.545001724233984,75.06676812165021,14.0,8.0
+Chikkamagaluru,Koppa,Koppa_village_3,13.495825332281655,75.07143163212658,11.0,7.0
+Chikkamagaluru,Koppa,Koppa_village_4,13.442887536467495,75.0561812809201,26.0,14.0
+Chikkamagaluru,Koppa,Koppa_village_5,13.582449348500967,75.08454838300106,10.0,7.0
+Chikkamagaluru,Koppa,Koppa_village_6,13.527150753545255,75.0517882186564,31.0,14.0
+Chikkamagaluru,Koppa,Koppa_village_7,13.46763225633584,75.13545593252603,23.0,20.0
+Chikkamagaluru,Koppa,Koppa_village_8,13.579587410198474,75.04265053643077,28.0,9.0
+Chikkamagaluru,Koppa,Koppa_village_9,13.538341611139897,75.0873074514044,11.0,11.0
+Chikkamagaluru,Koppa,Koppa_village_10,13.592092291489823,75.08031578103603,25.0,14.0
+Chikkamagaluru,Koppa,Koppa_village_11,13.527912524471281,75.06082394806627,16.0,6.0
+Chikkamagaluru,Koppa,Koppa_village_12,13.521287499022622,75.05604411893329,19.0,12.0
+Chikkamagaluru,Koppa,Koppa_village_13,13.559568015332559,75.06766590316332,25.0,21.0
+Chikkamagaluru,Koppa,Koppa_village_14,13.518609013158073,75.02608085817845,29.0,27.0
+Chikkamagaluru,Koppa,Koppa_village_15,13.5314792155742,75.06023945750879,14.0,12.0
+Chikkamagaluru,Koppa,Koppa_village_16,13.53637422903918,75.09139400287897,33.0,27.0
+Chikkamagaluru,Koppa,Koppa_village_17,13.544882479924802,75.0719169655245,14.0,13.0
+Chikkamagaluru,Koppa,Koppa_village_18,13.606749947668044,75.04149678421093,31.0,17.0
+Chikkamagaluru,Koppa,Koppa_village_19,13.571308591043096,75.06095964781683,20.0,9.0
+Chikkamagaluru,Koppa,Koppa_village_20,13.55175676383377,75.07498777564435,28.0,28.0
+Kodagu,Madikeri,Madikeri_village_1,12.42689187855968,75.75913260640567,11.0,7.0
+Kodagu,Madikeri,Madikeri_village_2,12.50899485561079,75.74247149349925,34.0,32.0
+Kodagu,Madikeri,Madikeri_village_3,12.439154514233097,75.75648983057593,29.0,24.0
+Kodagu,Madikeri,Madikeri_village_4,12.344829973177248,75.74159715857698,28.0,10.0
+Kodagu,Madikeri,Madikeri_village_5,12.431970868140429,75.72964651545684,35.0,16.0
+Kodagu,Madikeri,Madikeri_village_6,12.490745971827025,75.74910633762659,33.0,22.0
+Kodagu,Madikeri,Madikeri_village_7,12.423260030360389,75.72877451557287,28.0,14.0
+Kodagu,Madikeri,Madikeri_village_8,12.407060032481168,75.81729629204484,16.0,11.0
+Kodagu,Madikeri,Madikeri_village_9,12.41989151500591,75.70934776253024,16.0,8.0
+Kodagu,Madikeri,Madikeri_village_10,12.388912410114973,75.7164549787386,20.0,5.0
+Kodagu,Madikeri,Madikeri_village_11,12.452875251267606,75.73221454535233,15.0,11.0
+Kodagu,Madikeri,Madikeri_village_12,12.429947119102179,75.74879112694023,16.0,14.0
+Kodagu,Madikeri,Madikeri_village_13,12.414823245301235,75.72810355628268,14.0,5.0
+Kodagu,Madikeri,Madikeri_village_14,12.4285971899298,75.68967816858148,27.0,27.0
+Kodagu,Madikeri,Madikeri_village_15,12.417101198785407,75.81270435489017,30.0,22.0
+Kodagu,Madikeri,Madikeri_village_16,12.465281932732054,75.78355938132695,15.0,6.0
+Kodagu,Madikeri,Madikeri_village_17,12.409942286394283,75.72609887916111,28.0,22.0
+Kodagu,Madikeri,Madikeri_village_18,12.482731846405919,75.67386596691657,28.0,20.0
+Kodagu,Madikeri,Madikeri_village_19,12.38507572788297,75.70775756063738,34.0,25.0
+Kodagu,Madikeri,Madikeri_village_20,12.356165930076878,75.73091517942424,27.0,16.0
+Kodagu,Somwarpet,Somwarpet_village_1,12.640973073281861,75.88688865138761,27.0,16.0
+Kodagu,Somwarpet,Somwarpet_village_2,12.534552837875125,75.80731952794756,11.0,6.0
+Kodagu,Somwarpet,Somwarpet_village_3,12.660992395187005,75.86624291211405,25.0,14.0
+Kodagu,Somwarpet,Somwarpet_village_4,12.665839596018754,75.83622579551866,34.0,23.0
+Kodagu,Somwarpet,Somwarpet_village_5,12.618998799293417,75.90637236914566,28.0,24.0
+Kodagu,Somwarpet,Somwarpet_village_6,12.574718866829572,75.84012512511102,24.0,14.0
+Kodagu,Somwarpet,Somwarpet_village_7,12.67672537267638,75.86960020267435,11.0,8.0
+Kodagu,Somwarpet,Somwarpet_village_8,12.584523074298529,75.89283084809018,33.0,31.0
+Kodagu,Somwarpet,Somwarpet_village_9,12.549503318999749,75.92142115898706,11.0,11.0
+Kodagu,Somwarpet,Somwarpet_village_10,12.6523159492943,75.84703322907846,21.0,17.0
+Kodagu,Somwarpet,Somwarpet_village_11,12.580898948532845,75.8056542871455,16.0,8.0
+Kodagu,Somwarpet,Somwarpet_village_12,12.558391400599358,75.92389350656038,10.0,9.0
+Kodagu,Somwarpet,Somwarpet_village_13,12.56588722901948,75.83573508267926,15.0,9.0
+Kodagu,Somwarpet,Somwarpet_village_14,12.656670541128829,75.80072462288628,32.0,9.0
+Kodagu,Somwarpet,Somwarpet_village_15,12.65484049918104,75.90397210207865,29.0,24.0
+Kodagu,Somwarpet,Somwarpet_village_16,12.613432772115264,75.92316583723705,13.0,7.0
+Kodagu,Somwarpet,Somwarpet_village_17,12.579447512539868,75.81905706541322,30.0,10.0
+Kodagu,Somwarpet,Somwarpet_village_18,12.55500308899058,75.8914871707783,28.0,23.0
+Kodagu,Somwarpet,Somwarpet_village_19,12.64602129543118,75.80755345710826,17.0,17.0
+Kodagu,Somwarpet,Somwarpet_village_20,12.592152386732316,75.80418877079832,23.0,13.0
